@@ -1,3 +1,9 @@
+## 👨‍💻 About Me
+
+Halo! Saya seorang **Backend Developer** dengan fokus utama pada **Laravel (PHP)** dan **Golang**.  
+Selain pengembangan web, saya memiliki **sedikit kemampuan di bidang Web Application Penetration Testing** dan aktif sebagai **player di TryHackMe (THM)** untuk terus memperdalam keamanan siber.  
+Saya senang mengeksplorasi teknologi baru, membangun API yang efisien, serta memahami celah keamanan dari sisi pengembang maupun tester.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/w1ldan_aditya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.facebook.com/wildan.aditya.7311/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/4lda4xl7Y) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/WildanAditya/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@wildan_corleone) 
 
