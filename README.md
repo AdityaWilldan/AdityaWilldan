@@ -8,6 +8,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaWilldan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWilldan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### commit
+<img src="https://raw.githubusercontent.com/AdityaWilldan/AdityaWilldan/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaWilldan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
