@@ -10,7 +10,7 @@
 <!-- THM-STATS-START -->
 ## 🎯 TryHackMe Progress
 
-[![Statistik TryHackMe saya](assets/thm-stats.png)](https://tryhackme.com/p/penyihirgamingmajo)
+[![Statistik TryHackMe saya](/thm-stats.png)](https://tryhackme.com/p/penyihirgamingmajo)
 
 *Klik gambar untuk melihat profil TryHackMe asli saya.*
 <!-- THM-STATS-END -->
