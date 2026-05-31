@@ -8,6 +8,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaWilldan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWilldan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- THM-STATS-START -->
+## 🎯 TryHackMe Progress
+
+[![Statistik TryHackMe saya](assets/thm-stats.png)](https://tryhackme.com/p/penyihirgamingmajo)
+
+*Klik gambar untuk melihat profil TryHackMe asli saya.*
 <!-- THM-STATS-END -->
 
 ### 🔝 Top Contributed Repo
