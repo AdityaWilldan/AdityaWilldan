@@ -5,7 +5,7 @@ Additionally, I possess **basic knowledge of Web Application Penetration Testing
 I believe that understanding security from both a developer and an ethical hacker perspective leads to more robust systems.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/w1ldan_aditya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.facebook.com/wildan.aditya.7311/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/4lda4xl7Y) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/WildanAditya/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@wildan_corleone) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/w1ldan_aditya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.facebook.com/wildan.aditya.7311/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/4lda4xl7Y) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/WildanAditya/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@wildan_corleone)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,30 @@ I believe that understanding security from both a developer and an ethical hacke
 [![TryHackMe Progress](assets/thm-progress.png)](https://tryhackme.com/p/penyihirgamingmajo)
 <!-- THM-STATS-END -->
 
-[![Certification](assets/sertifidncysec.jpeg)](assets/Wildan_Aditia-1.pdf) (assets/Wildan_Aditia.pdf)
+## 📜 Certifications
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="assets/Wildan_Aditia-1.pdf">
+        <img src="assets/sertifidncysec.jpeg" alt="Cybersecurity Certification" width="400"/>
+      </a>
+      <br/>
+      <b>Cybersecurity Certification</b>
+      <br/>
+      <a href="assets/Wildan_Aditia-1.pdf">📄 View Certificate (PDF)</a>
+    </td>
+    <td align="center">
+      <a href="assets/Wildan_Aditia.pdf">
+        <img src="assets/sertifidncysec.jpeg" alt="Professional Certification" width="400"/>
+      </a>
+      <br/>
+      <b>Professional Certification</b>
+      <br/>
+      <a href="assets/Wildan_Aditia.pdf">📄 View Certificate (PDF)</a>
+    </td>
+  </tr>
+</table>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaWilldan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
