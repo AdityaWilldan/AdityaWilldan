@@ -27,7 +27,7 @@ I believe that understanding security from both a developer and an ethical hacke
   <tr>
     <td align="center">
       <a href="assets/Wildan_Aditia-1.pdf">
-        <img src="assets/sertifidncysec.jpeg" alt="Cybersecurity Certification" width="400"/>
+        <img src="assets/sertifidncysec.jpeg" alt="Cybersecurity Certification" width="300"/>
       </a>
       <br/>
       <b>Cybersecurity Certification</b>
@@ -36,15 +36,24 @@ I believe that understanding security from both a developer and an ethical hacke
     </td>
     <td align="center">
       <a href="assets/Wildan_Aditia.pdf">
-        <img src="assets/sertifidncysec.jpeg" alt="Professional Certification" width="400"/>
+        <img src="assets/sertifidncysec.jpeg" alt="Professional Certification" width="300"/>
       </a>
       <br/>
       <b>Professional Certification</b>
       <br/>
       <a href="assets/Wildan_Aditia.pdf">📄 View Certificate (PDF)</a>
     </td>
+    <td align="center">
+      <a href="assets/sertifidncysec.jpeg">
+        <img src="assets/sertifidncysec.jpeg" alt="Cybersecurity Certification (Image)" width="300"/>
+      </a>
+      <br/>
+      <b>Cybersecurity Certification</b>
+      <br/>
+      <a href="assets/sertifidncysec.jpeg">🖼️ View Certificate (Image)</a>
+    </td>
   </tr>
-</table>
+</table>)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaWilldan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
