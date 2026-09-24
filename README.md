@@ -27,33 +27,33 @@ I believe that understanding security from both a developer and an ethical hacke
   <tr>
     <td align="center">
       <a href="assets/Wildan_Aditia-1.pdf">
-        <img src="assets/sertifidncysec.jpeg" alt="Cybersecurity Certification" width="300"/>
+        <img src="https://img.shields.io/badge/PDF-Cybersecurity%20Certification-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Cybersecurity Certification PDF" width="250"/>
       </a>
-      <br/>
+      <br/><br/>
       <b>Cybersecurity Certification</b>
       <br/>
       <a href="assets/Wildan_Aditia-1.pdf">📄 View Certificate (PDF)</a>
     </td>
     <td align="center">
       <a href="assets/Wildan_Aditia.pdf">
-        <img src="assets/sertifidncysec.jpeg" alt="Professional Certification" width="300"/>
+        <img src="https://img.shields.io/badge/PDF-Professional%20Certification-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Professional Certification PDF" width="250"/>
       </a>
-      <br/>
+      <br/><br/>
       <b>Professional Certification</b>
       <br/>
       <a href="assets/Wildan_Aditia.pdf">📄 View Certificate (PDF)</a>
     </td>
     <td align="center">
       <a href="assets/sertifidncysec.jpeg">
-        <img src="assets/sertifidncysec.jpeg" alt="Cybersecurity Certification (Image)" width="300"/>
+        <img src="assets/sertifidncysec.jpeg" alt="Cybersecurity Certification Image" width="250"/>
       </a>
-      <br/>
+      <br/><br/>
       <b>Cybersecurity Certification</b>
       <br/>
       <a href="assets/sertifidncysec.jpeg">🖼️ View Certificate (Image)</a>
     </td>
   </tr>
-</table>)
+</table>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaWilldan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
