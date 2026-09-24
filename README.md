@@ -21,6 +21,8 @@ I believe that understanding security from both a developer and an ethical hacke
 [![TryHackMe Progress](assets/thm-progress.png)](https://tryhackme.com/p/penyihirgamingmajo)
 <!-- THM-STATS-END -->
 
+[![Certification](assets/sertifidncysec.jpeg)](assets/Wildan_Aditia-1.pdf) (assets/Wildan_Aditia.pdf)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaWilldan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
