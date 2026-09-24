@@ -23,38 +23,9 @@ I believe that understanding security from both a developer and an ethical hacke
 
 ## 📜 Certifications
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="assets/Wildan_Aditia-1.pdf">
-        <img src="https://img.shields.io/badge/PDF-Cybersecurity%20Certification-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Cybersecurity Certification PDF" width="250"/>
-      </a>
-      <br/><br/>
-      <b>Cybersecurity Certification</b>
-      <br/>
-      <a href="assets/Wildan_Aditia-1.pdf">📄 View Certificate (PDF)</a>
-    </td>
-    <td align="center">
-      <a href="assets/Wildan_Aditia.pdf">
-        <img src="https://img.shields.io/badge/PDF-Professional%20Certification-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Professional Certification PDF" width="250"/>
-      </a>
-      <br/><br/>
-      <b>Professional Certification</b>
-      <br/>
-      <a href="assets/Wildan_Aditia.pdf">📄 View Certificate (PDF)</a>
-    </td>
-    <td align="center">
-      <a href="assets/sertifidncysec.jpeg">
-        <img src="assets/sertifidncysec.jpeg" alt="Cybersecurity Certification Image" width="250"/>
-      </a>
-      <br/><br/>
-      <b>Cybersecurity Certification</b>
-      <br/>
-      <a href="assets/sertifidncysec.jpeg">🖼️ View Certificate (Image)</a>
-    </td>
-  </tr>
-</table>
-
+[![Cybersecurity Certification - View PDF](https://img.shields.io/badge/Cybersecurity_Certification-View_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/Wildan_Aditia-1.pdf)
+[![Professional Certification - View PDF](https://img.shields.io/badge/Professional_Certification-View_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/Wildan_Aditia.pdf)
+[![Cybersecurity Certification - View Image](assets/sertifidncysec.jpeg)](assets/sertifidncysec.jpeg)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaWilldan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
