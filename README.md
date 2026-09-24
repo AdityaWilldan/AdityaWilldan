@@ -23,9 +23,32 @@ I believe that understanding security from both a developer and an ethical hacke
 
 ## 📜 Certifications
 
-[![Cybersecurity Certification - View PDF](https://img.shields.io/badge/Cybersecurity_Certification-View_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/Wildan_Aditia-1.pdf)
-[![Professional Certification - View PDF](https://img.shields.io/badge/Professional_Certification-View_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/Wildan_Aditia.pdf)
-[![Cybersecurity Certification - View Image](assets/sertifidncysec.jpeg)](assets/sertifidncysec.jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <b>Cybersecurity Certification</b><br/>
+      <a href="assets/sertifidncysec.jpeg">
+        <img src="assets/sertifidncysec.jpeg" alt="Cybersecurity Certificate" width="300"/>
+      </a><br/>
+      <a href="assets/sertifidncysec.jpeg">IDN networker cysec</a>
+    </td>
+    <td align="center">
+      <b>Professional Certification</b><br/>
+      <a href="assets/Wildan Aditia-1.png">
+        <img src="assets/Wildan Aditia-1-1.png" alt="Professional Certification" width="300"/>
+      </a><br/>
+      <a href="assets/Wildan_Aditia.pdf">Merdeka siber participant</a>
+    </td>
+    <td align="center">
+      <b>Cybersecurity Certificate</b><br/>
+      <a href="assets/Wildan_Aditia-1.pdf">
+        <img src="assets/Wildan Aditia-1.png" alt="Cybersecurity Certification" width="300"/>
+      </a><br/>
+      <a href="assets/Wildan Aditia-1.png">Merdeka siber participant</a>
+    </td>
+  </tr>
+</table>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaWilldan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
